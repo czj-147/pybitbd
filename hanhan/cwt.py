@@ -1,0 +1,2 @@
+def orz():
+    print("\\tgtg/")
